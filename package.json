@@ -18,7 +18,8 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.6.0"
+    "ember-cli-babel": "^6.6.0",
+    "highcharts": "^6.0.4"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
@@ -35,9 +36,11 @@
     "ember-cli-uglify": "^2.0.0",
     "ember-disable-prototype-extensions": "^1.1.2",
     "ember-export-application-global": "^2.0.0",
+    "ember-highcharts": "^0.5.4",
     "ember-load-initializers": "^1.0.0",
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.16.0",
+    "highcharts": "^6.0.4",
     "loader.js": "^4.2.3"
   },
   "engines": {
